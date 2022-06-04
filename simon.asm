@@ -30,8 +30,8 @@ maxY dw 0
 horLength dw 0
 verLength dw 0
 ;Colors:
-redColor dw 14
-blueColor dw 4
+redColor dw 12
+blueColor dw 6
 yellowColor dw 29
 greenColor dw 2
 redButtonColor dw 3577
