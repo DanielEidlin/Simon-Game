@@ -706,7 +706,7 @@ proc printScore
 	
 endp printScore
 
-;randomly generates a number from 0-3 and picking wich color will be played now according to the number
+;randomly generates a number from 0-3 and picking which color will be played now according to the number
 proc PickAColor
 
 	mov ax, 40h
